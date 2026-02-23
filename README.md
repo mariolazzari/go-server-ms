@@ -110,3 +110,7 @@ func main() {
 ```
 
 ## Working With URL Variables and Headers
+
+```go
+
+```
